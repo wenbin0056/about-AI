@@ -5,8 +5,12 @@
 - 提供了一种解决机器学习问题的高校方法。
 > - 机器学习在计算机视觉、语音识别、语言翻译和健康医疗等领域。
 
-#### 环境安装
+#### windows下环境安装TensorFlow
 >
+1. 安装python：www.python.org，3.5.3，Windows x86-64 executable installer，
+2. 安装numpy库: pip3 install numpy 
+3. 安装pandas库: pip3 install pandas
+
 - 使用Python3.4+（https://www.ython.org）,
 - TensorFlow 0.12(https://www.tensorflow.org),
 - 可以在CPU上跑，在GPU上跑得更快，Nvidia Tesla/Nvidia Pascal，
@@ -48,13 +52,57 @@
 
 #### 占位符和变量的用法
 >
- - 计算图的关键工具是占位符和变量
+- 计算图的关键工具是占位符和变量
+- 变量是TensorFlow机器学习算法的参数
+- TensorFlow维护这边变量的状态来优化机器学习算法
+- 占位符是TensorFlow对象，用于表示输入输出数据格式
+- 占位符允许传输指定类型和形状的数据，并依赖计算图的计算结果
 
 
-- 矩阵的使用：
-- 声明计算操作：
-- 实现激励函数：
-- 读取数据源：
+#### 矩阵的使用
+>
+- 创建矩阵
+- 加减
+- 乘法
+- 转置
+- 逆矩阵
+- 矩阵分解
+- 矩阵的特征值和特征向量
+ 
+#### 声明计算操作
+
+
+#### 实现激励函数
+>
+- 激励函数是使用所有神经网络算法的必备‘神器’
+- 目的：调节权重和误差
+- TensorFlow中，激励函数的作用是在张量上的非线性操作
+- 为了计算图归一化返回结果而进行的非线性操作部分
+
+#### 读取数据源
+>
+- 通过TensorFlow和Python访问各种数据源
+
+
+#### 计算图的操作
+>
+- 123
+
+#### TensorFlow的嵌入Layer
+
+#### TensorFlow的多层Layer
+>
+- 在一个计算图中进行多个操作，连接创博数据的多层Layer
+
+
+#### TensorFlow实现损失函数
+
+#### 实现方向创博
+
+#### 实现随机训练和批量驯良
+
+#### 实现模型评估
+
 
 ### 线性回归
 
