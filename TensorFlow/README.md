@@ -10,8 +10,9 @@
 1. 安装python：www.python.org，3.5.3，Windows x86-64 executable installer，
 2. 安装numpy库: pip3 install numpy 
 3. 安装pandas库: pip3 install pandas
-* CUDA安装:https://jingyan.baidu.com/article/29697b9132e72eab21de3c76.html;仅支持NVIDIA显卡
-* CUDNN安装:
+* CUDA安装:https://jingyan.baidu.com/article/29697b9132e72eab21de3c76.html;仅支持NVIDIA显卡,英伟官网下载CUDA，然后安装。
+* CUDNN安装:http://www.cnblogs.com/hzm12/p/6422701.html
+* https://blog.csdn.net/qq_34106574/article/details/80691105
 
 - 使用Python3.4+（https://www.ython.org）,
 - TensorFlow 0.12(https://www.tensorflow.org),
