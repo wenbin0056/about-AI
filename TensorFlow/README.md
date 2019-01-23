@@ -5,13 +5,17 @@
 - 提供了一种解决机器学习问题的高校方法。
 > - 机器学习在计算机视觉、语音识别、语言翻译和健康医疗等领域。
 
+#### windows下环境安装VS
+- 下载：https://visualstudio.microsoft.com/zh-hans/thank-you-downloading-visual-studio/?sku=Community&rel=15
+- 
+
 #### windows下环境安装TensorFlow
 >
 1. 安装python：www.python.org，3.5.3，Windows x86-64 executable installer，
 2. 安装numpy库: pip3 install numpy 
 3. 安装pandas库: pip3 install pandas
-* 安装最新的显卡驱动：http://www.nvidia.cn/Download/index.aspx?lang=cn
-* CUDA安装:https://jingyan.baidu.com/article/29697b9132e72eab21de3c76.html;仅支持NVIDIA显卡,英伟官网下载CUDA，然后安装。
+* 安装最新的显卡驱动：http://www.nvidia.cn/Download/index.aspx?lang=cn；
+* CUDA安装:https://jingyan.baidu.com/article/29697b9132e72eab21de3c76.html;仅支持NVIDIA显卡,英伟官网下载CUDA，然后安装。C:\Users\ADMINI~1\AppData\Local\Temp\CUDA；windows/8
 * CUDNN安装:http://www.cnblogs.com/hzm12/p/6422701.html
 * https://blog.csdn.net/qq_34106574/article/details/80691105
 
