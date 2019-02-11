@@ -14,10 +14,21 @@
 1. 安装python：www.python.org，3.5.3，Windows x86-64 executable installer，
 2. 安装numpy库: pip3 install numpy 
 3. 安装pandas库: pip3 install pandas
-* 安装最新的显卡驱动：http://www.nvidia.cn/Download/index.aspx?lang=cn；
-* CUDA安装:https://jingyan.baidu.com/article/29697b9132e72eab21de3c76.html;仅支持NVIDIA显卡,英伟官网下载CUDA，然后安装。C:\Users\ADMINI~1\AppData\Local\Temp\CUDA；windows/8
-* CUDNN安装:http://www.cnblogs.com/hzm12/p/6422701.html
+4. 安装最新的显卡驱动：http://www.nvidia.cn/Download/index.aspx?lang=cn；
+5. CUDA安装:https://jingyan.baidu.com/article/29697b9132e72eab21de3c76.html;仅支持NVIDIA显卡,英伟官网下载CUDA，然后安装。nvcc -V 验证是否Ok；C:\Users\ADMINI~1\AppData\Local\Temp\CUDA；windows/8
+6. CUDNN安装:
+下载：https://pan.baidu.com/s/1aW89xEfaieY-9dvgAApiEw
+解压后拷贝到
+https://developer.nvidia.com/cudnn
+http://www.cnblogs.com/hzm12/p/6422701.html
 * https://blog.csdn.net/qq_34106574/article/details/80691105
+* https://blog.csdn.net/m0_37638031/article/details/78896818
+
+- pip3 install tensorflow-gpu
+
+>
+CUDA:Compute Unified Device Architecture，显卡厂商英伟达推出的运算平台。通用并行计算架构，该架构使用GPU能够解决复杂的计算问题。包含CUDA指令集架构（ISA）以及GPU内部的并行计算引擎。
+CUDNN:是专门针对Deep Learning框架设计的一套GPU计算加速方案，目前支持的DL库包括Caffe，ConvNet, Torch7等。
 
 - 使用Python3.4+（https://www.ython.org）,
 - TensorFlow 0.12(https://www.tensorflow.org),
