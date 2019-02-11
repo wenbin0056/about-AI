@@ -59,6 +59,16 @@
 贝叶斯公式
 
 
+超参数的选择
+Grid Search：网格搜索；在高维空间中对一定区域进行遍历
+Random Search：在高维空间中随机选择若干超参数
+- 余弦距离
+- 欧式距离
+- 曼哈顿距离
+
+
+- https://blog.csdn.net/weixin_41108334/article/details/86499638
+
 ### 基础
 >
 - k-近邻算法
