@@ -25,6 +25,7 @@ http://www.cnblogs.com/hzm12/p/6422701.html
 * https://blog.csdn.net/m0_37638031/article/details/78896818
 
 - pip3 install tensorflow-gpu
+- pip install opencv_python-3.2.0-cp35-cp35m-win_amd64.whl
 
 >
 CUDA:Compute Unified Device Architecture，显卡厂商英伟达推出的运算平台。通用并行计算架构，该架构使用GPU能够解决复杂的计算问题。包含CUDA指令集架构（ISA）以及GPU内部的并行计算引擎。
@@ -35,6 +36,10 @@ CUDNN:是专门针对Deep Learning框架设计的一套GPU计算加速方案，�
 - 可以在CPU上跑，在GPU上跑得更快，Nvidia Tesla/Nvidia Pascal，
 - 为了运行GPU，需要下载Nvidia Cuda Toolkit（https://developer.nividia.com/cuda-downloads）v5.x
 - 依赖python的包：Scipy、Numpy、Scikit-Learn 
+
+#### 例子
+>
+- https://www.cnblogs.com/wuyida/p/6300207.html
 
 #### 算法的一般流程
 >
