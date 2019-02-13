@@ -1,5 +1,7 @@
 # About Machine Learning
 
+https://cuijiahua.com/
+
 衡量一个模型泛化误差的两个方面：  
 - 偏差：
 指的是模型预测的期望值与真实值之间的差；
@@ -403,7 +405,8 @@ sigmoid函数
 基于最优化方法的最佳回归系数确定
 
 优化理论：
-梯度上升
+梯度上升算法
+
 随机梯度上升
 
 Logistic回归分类器
@@ -413,7 +416,7 @@ Logistic回归分类器
 缺点：
 
 
-
+https://blog.csdn.net/c406495762/article/details/77723333
 
 
 ### 支持向量机
