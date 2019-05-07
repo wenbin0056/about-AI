@@ -179,11 +179,6 @@ CUDNN:是专门针对Deep Learning框架设计的一套GPU计算加速方案，�
 
 ===
 
-#作者利用业余时间写的，码字不易，觉得不错可以请我喝杯茶。
-
-![my-logo.png](http://m.qpic.cn/psb?/V13wPQGu1WsR3d/7EZYVY6YKSdhaCsPFIqLou2laqOK*7qrxkKFP1GaOXw!/b/dFIBAAAAAAAA&bo=4QBSAQAAAAARB4I!&rf=viewer_4)
-![my-logo.png](http://m.qpic.cn/psb?/V13wPQGu1WsR3d/n4XEA4NusddLVrFcilRR4OP3NdNs2AfksfIMvWHlzIQ!/b/dLkAAAAAAAAA&bo=DgFvAQAAAAARF0E!&rf=viewer_4)
-
 # 谢谢！
 
 
